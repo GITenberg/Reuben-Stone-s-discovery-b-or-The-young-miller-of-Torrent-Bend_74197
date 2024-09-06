@@ -1,0 +1,41 @@
+_repo: Reuben-Stone-s-discovery-b-or-The-young-miller-of-Torrent-Bend_74197
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Ralph
+    - Bonehill, Captain Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edward_Stratemeyer
+    - https://www.gutenberg.org/ebooks/author/55530
+description: ''
+gutenberg_issued: '2024-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74197'
+language: en
+pgterms:marc905: 20180509172008stratemeye
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aBoston :$bLee and Shepard Publishers, $c1895, copyright 1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Ship and shore series
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fraud -- Juvenile fiction'
+- !lcsh 'Mills and mill-work -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Reuben Stone''s discovery : $b or, The young miller of Torrent Bend'
+url: http://www.gutenberg.org/ebooks/74197
