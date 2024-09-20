@@ -1,5 +1,8 @@
 _repo: Reuben-Stone-s-discovery-b-or-The-young-miller-of-Torrent-Bend_74197
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74197-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edward_Stratemeyer
     - https://www.gutenberg.org/ebooks/author/55530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74197#Reuben-Stone-s-discovery-b-or-The-young-miller-of-Torrent-Bend
 gutenberg_issued: '2024-08-06'
 gutenberg_type: Text
 identifiers:
